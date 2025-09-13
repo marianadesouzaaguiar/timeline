@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 Repository: Airtable Timeline Assignment
 
 This repository contains a solution for the task of creating a timeline visualization component, inspired by the Airtable interface. The main goal was to design and implement an interactive timeline that organizes and displays events in a compact and visually pleasing way.
@@ -72,4 +74,5 @@ E2E tests: For the zoom, edit, and drag & drop workflows (with Cypress).
 A11y tests: To check for contrast and keyboard support.
 
 🖤 Credits
+
 Made with ❤️ by Mariana Aguiar – FrontEnd Developer 
