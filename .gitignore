@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Build and cache directories
+.parcel-cache/
+dist/
+
+# Operating system files
+.DS_Store
+
+# Package manager files
+package-lock.json
+
+# IDE or editor-specific files
+# .vscode/
+# .idea/
+
+# Other temporary files
+# instructions.md
+# You might want to remove this line if you need to track your instructions.
