@@ -70,3 +70,6 @@ Snapshot tests: For the SVG rendering.
 E2E tests: For the zoom, edit, and drag & drop workflows (with Cypress).
 
 A11y tests: To check for contrast and keyboard support.
+
+🖤 Credits
+Made with ❤️ by Mariana Aguiar – FrontEnd Developer 
